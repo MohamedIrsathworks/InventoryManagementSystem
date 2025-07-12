@@ -21,7 +21,7 @@ This project is a **backend-only** implementation of an Inventory Management Sys
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/MohamedIrsathworks/InventoryManagementSystem.git
    cd inventory-management-system
 
 2. **Build the project** - mvn clean install
